@@ -21,7 +21,7 @@
             ],
             "mountPoints": [
                 {
-                    "sourceVolume": "my-vol1",
+                    "sourceVolume": "my-vol",
                     "containerPath": "/var/www/my-vol"
                 }
             ],
